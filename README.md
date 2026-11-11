@@ -1,1 +1,1 @@
-# calcul-c-equipee
+# calcul-c-equipe
