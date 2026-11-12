@@ -1,6 +1,5 @@
 #include <stdio.h>
-
 int main() {
-    printf("Projet collaboratif\n");
+    printf("Message depuis feature/message\n");
     return 0;
-} EOF
+}
